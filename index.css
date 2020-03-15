@@ -1,7 +1,4 @@
-h4{
-  text-align: center;
-  font-style: italic;
-}
+
 
 .art{
   margin:auto;
@@ -11,7 +8,10 @@ td{
   height: 300px;
   width: 150px;
   border: 6px solid white;
+}
 
+background{
+  background-color: #D6F6DD;
 }
 
 #one{
